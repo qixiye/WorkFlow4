@@ -12,7 +12,9 @@
         <asp:Label ID="Label1" runat="server" Text="这是一个新的测试"></asp:Label>
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <br />
-        添加一个新的测试</div>
+        添加一个新的测试<br />
+        最新的测试<br />
+    </div>
     </form>
 </body>
 </html>
