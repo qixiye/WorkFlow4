@@ -11,7 +11,8 @@
     <div>
         <asp:Label ID="Label1" runat="server" Text="这是一个新的测试"></asp:Label>
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-    </div>
+        <br />
+        添加一个新的测试</div>
     </form>
 </body>
 </html>
