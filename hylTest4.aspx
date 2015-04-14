@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Test3.aspx.cs" Inherits="Test3" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="hylTest4.aspx.cs" Inherits="hylTest4" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    hyl的修改
+    
     </div>
     </form>
 </body>
