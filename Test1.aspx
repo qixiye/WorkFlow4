@@ -9,14 +9,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
-<<<<<<< HEAD
         <asp:Label ID="Label1" runat="server" Text="这是一个新的测试"></asp:Label>
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <br />
         Fork测试
-=======
         fork测试
->>>>>>> origin/master
     </div>
     </form>
 </body>
