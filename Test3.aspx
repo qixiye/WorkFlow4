@@ -8,8 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
+    <div>    
         增加一个新页面</div>
     </form>
 </body>
